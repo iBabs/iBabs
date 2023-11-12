@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iBabs
-- 👀 I’m interested in Wed Development
-- 🌱 I’m currently learning Django and mastering react js
+- 👀 I’m a fullstack Wed Developer
+- 🌱 I’m skilled in React js, Node js and Flutter
 - 💞️ I’m looking to collaborate on any project that helps me develop my skills, please reach out
 - 📫 How to reach me ibrahimbabalola8@gmail.com
 
