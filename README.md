@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iBabs
-- 👀 I’m a fullstack Wed Developer
-- 🌱 I’m skilled in React js, Node js and Flutter
+- 👀 I’m a fullstack Web Developer
+- 🌱 I’m skilled in React JS, Node JS and Flutter
 - 💞️ I’m looking to collaborate on any project that helps me develop my skills, please reach out
 - 📫 How to reach me ibrahimbabalola8@gmail.com
 
